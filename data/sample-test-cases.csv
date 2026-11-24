@@ -1,0 +1,13 @@
+ID,Module,Title,Priority,Status
+TC-001,Login,Valid login,High,Pass
+TC-002,Login,Invalid password,High,Pass
+TC-003,Login,Empty fields,High,Pass
+TC-004,Search,Search existing product,Medium,Pass
+TC-005,Search,No results,Medium,Fail
+TC-006,Cart,Add product,High,Pass
+TC-007,Cart,Cart count persists,Medium,Fail
+TC-008,Cart,Remove product,High,Pass
+TC-009,Checkout,Empty address,Critical,Blocked
+TC-010,Checkout,Valid checkout,High,Not Run
+TC-011,Checkout,Duplicate submission,High,Not Run
+TC-012,Confirmation,Order details,Medium,Not Run
